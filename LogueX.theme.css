@@ -1,0 +1,22 @@
+//META{"name":"LogueX_v.1.0","description":"Epic discord theme for cool ppl","author":"loguecow","version":"1.0"}*//
+@import url("https://codedotspectra.github.io/themes/neutron/importCSS/xcore.css");
+@import url('https://codedotspectra.github.io/themes/mini-themes/statusSquared.css');
+@import url('https://fonts.googleapis.com/css?family=Hacked');
+@import url('https://hackedfont.com/HACKED.ttf')
+--brightness: 0.4;
+--customFont: 'Hacked';
+--PrimaryColor01: #008000;
+--PrimaryColorRGBA: rgba(0,128,0,.15);
+--PrimaryColor02: #0079dd;
+--links: #0095dd;
+--ChatTextColor: #ffffff;
+--RoleTitleColor: #bfbfbf;
+--UserPlayingTextColor: #0e7a2f;
+--ChannelsDefaultTextColor: #e6e6e6;
+--ChannelsSelectedTextColor: #e1e1e1;
+--ChannelsDarkTextColor: #ffa6a6;
+--NTBackgroundColor01: #1e1e1e;
+--NTBackgroundColor02: #1e1e1e;
+--NTBackgroundColor03: #1e1e1e;
+--NTBackgroundColor04: #008000;
+}
