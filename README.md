@@ -1,6 +1,6 @@
-# Custom-Discord-Theme
+# LogueX-Discord-Theme
 
-LogueX discord theme
+Loguecow discord theme
 
 
 
