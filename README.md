@@ -12,6 +12,7 @@ You can use any theme you like but i just made my own shitty theme
 It uses the HACKED font so if you want it you need to run the HACKED.ttf
 
 # Plugins
+Go to settings, plugins and press open plugins folder and drag the plugins into the folder
 
 DoNotTrack: Stops Discord from tracking everything you do like Sentry and Analytics.
 
