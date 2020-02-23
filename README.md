@@ -9,6 +9,6 @@ And then when its finished go to settings and then themes and then press open fo
 
 You can use any theme you like but i just made my own shitty theme
 
-It uses the HACKED font so you maybe need to install it too
+It uses the HACKED font so if you want it you need to run the HACKED.ttf
 
 Credits > Jiiks & rauenzi
