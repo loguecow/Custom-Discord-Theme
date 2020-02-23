@@ -17,5 +17,5 @@ DoNotTrack: Stops Discord from tracking everything you do like Sentry and Analyt
 
 Creation Date: Displays the Creation Date of an Account in the UserPopout and UserModal.
 
-#Credits:
-#Jiiks, rauenzi, DevilBro, Zerebos.
+# Credits:
+# Jiiks, rauenzi, DevilBro, Zerebos.
