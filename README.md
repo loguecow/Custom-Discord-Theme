@@ -1,6 +1,6 @@
 # LogueX-Discord-Theme
 
-Loguecow discord theme
+Custom Discord with plugins, themes and css
 
 # Installation
 
